@@ -2,27 +2,36 @@
 
 Smart Spectacles for Blind is an assistive technology project designed to help visually impaired individuals navigate safely and independently. The system uses an ultrasonic sensor to detect obstacles in front of the user and provides immediate feedback through a buzzer or vibration alert. This wearable device enhances mobility and reduces the risk of collisions with nearby objects.
 
-**Features**
+<h1><b>Features</b></h1>
 <br>
-Real-time obstacle detection
-Ultrasonic sensor-based distance measurement
-Audio/Vibration alerts for user notification
-Lightweight and wearable design
-Low power consumption
-Cost-effective solution for visually impaired people
-Components Used
-Arduino Uno/Nano
-Ultrasonic Sensor (HC-SR04)
-Buzzer or Vibration Motor
-Battery Pack
-Smart Spectacle Frame
-Connecting Wires
-Working Principle
+<ul>
+<li>Real-time obstacle detection</li><br>
+<li>Ultrasonic sensor-based distance measurement</li><br>
+<li>Audio/Vibration alerts for user notification</li><br>
+<li>Lightweight and wearable design</li><br>
+<li>Low power consumption</li><br>
+<li>Cost-effective solution for visually impaired people</li><br>
+</ul>
+
+<br>
+<h1><b>Components Used</b></h1><br>
+<ul>
+<li>Arduino Uno/Nano</li><br>
+<li>Ultrasonic Sensor (HC-SR04)</li><br>
+<li>Buzzer or Vibration Motor</li><br>
+<li>Battery Pack</li><br>
+<li>Smart Spectacle Frame</li><br>
+<li>Connecting Wires</li><br>
+</ul>
+
+<h1><b>Working Principle</b></h1><br>
 
 The ultrasonic sensor continuously emits ultrasonic waves and receives the reflected signals from nearby obstacles. The Arduino calculates the distance based on the time taken for the echo to return. When an obstacle is detected within a predefined range, the system activates the buzzer or vibration motor to alert the user, helping them avoid collisions.
 
-Applications
-Navigation assistance for visually impaired individuals
-Indoor and outdoor obstacle detection
-Personal safety wearable device
-Smart healthcare and assistive technology projects
+<h1><b>Applications</b></h1><br>
+<ul>
+<li>Navigation assistance for visually impaired individuals</li><br>
+<li>Indoor and outdoor obstacle detection</li><br>
+<li>Personal safety wearable device</li><br>
+<li>Smart healthcare and assistive technology projects</li><br>
+</ul>
