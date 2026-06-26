@@ -35,3 +35,6 @@ The ultrasonic sensor continuously emits ultrasonic waves and receives the refle
 <li>Personal safety wearable device</li><br>
 <li>Smart healthcare and assistive technology projects</li><br>
 </ul>
+
+<h1><b>Circuit Diagram</b></h1><br>
+<img src="1781933057733.jpg" alt="Description of image">
