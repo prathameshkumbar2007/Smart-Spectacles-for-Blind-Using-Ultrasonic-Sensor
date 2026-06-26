@@ -37,4 +37,4 @@ The ultrasonic sensor continuously emits ultrasonic waves and receives the refle
 </ul>
 
 <h1><b>Circuit Diagram</b></h1><br>
-<img src="1781933057733.jpg" alt="Description of image">
+<img width="550" height="350" alt="Image" src="https://github.com/user-attachments/assets/28d07a83-c7b2-4774-9afc-27281968a6d0" />
