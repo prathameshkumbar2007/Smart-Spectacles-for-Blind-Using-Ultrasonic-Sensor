@@ -36,5 +36,5 @@ The ultrasonic sensor continuously emits ultrasonic waves and receives the refle
 <li>Smart healthcare and assistive technology projects</li><br>
 </ul>
 
-<h1><b>Circuit Diagram</b></h1><br>
+<h1><b>Circuit Diagram</b></h1> <br>
 <img width="550" height="350" alt="Image" src="https://github.com/user-attachments/assets/28d07a83-c7b2-4774-9afc-27281968a6d0" />
